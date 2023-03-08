@@ -1,0 +1,19 @@
+{
+  "name": "the-mongo-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhisek69/the-mongo-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhisek69/the-mongo-backend/issues"
+  },
+  "homepage": "https://github.com/abhisek69/the-mongo-backend#readme"
+}
